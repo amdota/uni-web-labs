@@ -1,0 +1,33 @@
+
+.container{
+    padding-top: 2rem;
+}
+
+.startedTask{
+    border-top: 9px outset #1C6EA4;
+    border-radius: 11px 11px 11px 11px;
+    width: 30%;
+}
+
+.newTask{
+    border-top: 9px outset indianred;
+    border-radius: 11px 11px 11px 11px;
+    width: 30%;
+}
+
+.login-text{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.login-bottom{
+    flex: 1 1 auto;
+    margin: 0 1rem;
+}
+
+a{
+    text-decoration: none;
+}
+
